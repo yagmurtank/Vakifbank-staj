@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/31790483/README.md)
-# Vakifbank-staj# VakıfBank Ödeme Yönetim Prototipi
+
+VakıfBank Ödeme Yönetim Prototipi
 
 Kurumlara ait ödeme/tahsilat ekranlarını **kod yazmadan** tanımlayıp, gerçek bir kullanıcı gibi test edip, kurum mock servisinden dönen mutabakat sonuçlarını takip edebileceğiniz tek sayfalık bir prototip.
 
