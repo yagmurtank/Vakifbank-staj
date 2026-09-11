@@ -5,7 +5,7 @@ gözünden test edebileceğiniz, gerçek bankacılık mutabakat mantığıyla ç
 prototip.
 
 ##  Canlı Demo
-
+https://yagmurtank.github.io/Vakifbank-staj/
 Bu depo GitHub Pages ile yayınlanmaktadır — depo ayarlarınızdaki adres üzerinden doğrudan açılır.
 
 ##  Proje Hakkında
